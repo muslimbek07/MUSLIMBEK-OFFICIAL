@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+    background: linear-gradient(to right top, red, yellow, orange);
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 20px;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0 0 100px gold;
+}
+
+.btn {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+
+.dp {
+    margin: 25px 0;
+    height: 50px;
+    width: 100px;
+    border-radius: 12px;
+    border: none;
+    font-size: 2em;
+    text-align: center;
+    outline: none;
+    margin-top: 80px;
+}
+
+.rst {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
